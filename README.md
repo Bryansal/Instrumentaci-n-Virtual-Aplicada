@@ -1,1 +1,1 @@
-# Instrumentaci-n-Virtual-Aplicada
+# Instrumentacion-Virtual-Aplicada
